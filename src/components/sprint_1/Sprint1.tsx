@@ -2,7 +2,7 @@ import AllCards from "./AllCards";
 import { useState } from "react";
 
 export default function Sprint1() {
-  const [currentCard, setCurrentCard] = useState(0);
+  const [currentCard, setCurrentCard] = useState(1);
   const cardsQuantity = 8;
   return (
     <>
