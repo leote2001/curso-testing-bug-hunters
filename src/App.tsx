@@ -4,7 +4,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 
 function App() {  
   return (
-    <Router>
+    <Router basename="/curso-testing-bug-hunters">
     <>
     <Layout>
       <AppRoutes />
