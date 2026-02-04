@@ -72,8 +72,8 @@ export default function Card5() {
                   <td className="text-center fw-bold">CP_7</td>
                   <td><strong>Verificación de Accesibilidad</strong></td>
                   <td>Lectura correcta de campos requeridos por lector de pantalla.</td>
-                  <td className="text-center"><span className="badge bg-dark">ALTA</span></td>
-                  <td className="text-center fw-bold text-success">PASO</td>
+                  <td className="text-center"><span className="badge bg-dark">Media</span></td>
+                  <td className="text-center fw-bold text-danger">FALLO</td>
                 </tr>
               </tbody>
             </table>
@@ -82,8 +82,8 @@ export default function Card5() {
         <div className="card-footer bg-light py-2">
           <div className="d-flex justify-content-around small">
             <span><strong>Total:</strong> 7</span>
-            <span className="text-success"><strong>Paso:</strong> 5</span>
-            <span className="text-danger"><strong>Fallo:</strong> 2</span>
+            <span className="text-success"><strong>Paso:</strong> 4</span>
+            <span className="text-danger"><strong>Fallo:</strong> 3</span>
           </div>
         </div>
       </div>

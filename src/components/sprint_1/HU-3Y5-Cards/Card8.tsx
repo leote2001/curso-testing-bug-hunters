@@ -86,9 +86,9 @@ export default function Card8() {
                     interpretados por lectores de pantalla.
                   </td>
                   <td className="text-center">
-                    <span className="badge bg-dark">ALTA</span>
+                    <span className="badge bg-dark">Media</span>
                   </td>
-                  <td className="text-center fw-bold text-success">PASO</td>
+                  <td className="text-center fw-bold text-danger">FALLO</td>
                 </tr>
               </tbody>
             </table>
@@ -98,8 +98,8 @@ export default function Card8() {
         <div className="card-footer bg-light py-2">
           <div className="d-flex justify-content-around small">
             <span><strong>Total:</strong> 5</span>
-            <span className="text-success"><strong>Paso:</strong> 4</span>
-            <span className="text-danger"><strong>Fallo:</strong> 1</span>
+            <span className="text-success"><strong>Paso:</strong> 3</span>
+            <span className="text-danger"><strong>Fallo:</strong> 2</span>
           </div>
         </div>
       </div>

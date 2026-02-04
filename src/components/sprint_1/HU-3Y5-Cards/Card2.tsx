@@ -33,7 +33,7 @@ export default function Card2() {
           </div>
         </div>
         <div className="card-footer bg-transparent">
-          <small className="text-muted">Alcance del Sprint 2: Seguridad (Logueo) y Comunicación (Contacto)</small>
+          <small className="text-muted">Alcance del Sprint 1: Seguridad (Logueo) y Comunicación (Contacto)</small>
         </div>
       </div>
     </div>
